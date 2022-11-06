@@ -19,7 +19,7 @@ Alexander Chavez | achavezmontano@itba.edu.ar
 2. Abrir WSL, luego la consola de Ubuntu.
 3. Ejecutar/Descargar todo el proyecto: git clone https://github.com/alexchavez1980/nga5.git
 4. Ingresar: cd nga
-5. Ejecutar: docker-compose -f <archivo.yml> up -d. Ejemplo: docker-compose -f dc10.yml up -d
+5. Ejecutar: docker-compose -f <archivo.yml> up -d. Ejemplo: docker-compose -f dc12.yml up -d
 
 * El docker-compose es un archivo yaml/yml para crear todos los containers necesarios y a la vez.
 * Para borrar todos los containers, incluso las redes: docker compose down
