@@ -17,7 +17,7 @@ Alexander Chavez | achavezmontano@itba.edu.ar
 
 1. Abrir _Docker Desktop_ y tener la interfaz para ver los resultados. Acá no hay que hacer nada.
 2. Abrir WSL, luego la consola de Ubuntu.
-3. Ejecutar/Descargar todo el proyecto: git clone https://github.com/alexchavez1980/nga5.git
+3. Ejecutar/Descargar todo el proyecto: git clone https://github.com/alexchavez1980/nga6.git
 4. Ingresar: cd nga
 5. Ejecutar: docker-compose -f <archivo.yml> up -d. Ejemplo: docker-compose -f dc12.yml up -d
 
